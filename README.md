@@ -1,7 +1,7 @@
 <div align="center">
 
 # Baibhav Kumar
-### Software Developer · B.Tech CSE @ NIT Durgapur
+### Full-Stack & Blockchain Developer · B.Tech CSIT @ Narula Institute of Technology
 
 </div>
 
