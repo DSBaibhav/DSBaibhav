@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+*.pyc
+__pycache__/
+.env
+
+# qlmanage preview thumbnails (local only)
+*.svg.png
+
+# rembg model cache (auto-downloaded)
+u2net*.onnx
